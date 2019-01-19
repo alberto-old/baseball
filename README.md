@@ -8,5 +8,5 @@ TBD Baseball visualization project
 ## Feeback 
 
 ## Resources
-- Base Bootstrap 4 [template](https://getbootstrap.com/docs/4.2/examples/cover/) for HTML page
-- Colour palette from [colorhunt](https://colorhunt.co/palette/2763)
+- [UIkit](https://getuikit.com/) HTML framework
+- Baseball [icon](https://thenounproject.com/search/?q=baseball&i=469913) by Andrew Doane from the Noun Project
